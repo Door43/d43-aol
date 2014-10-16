@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aol:home|Door43 (aol)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aol|d43-aol repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aol/archive/master.zip|d43-aol.zip]]
+
+**Recent Changes**
+{{changes>ns = aol}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aol|Ethnologue data]]
+
